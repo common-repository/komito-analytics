@@ -1,0 +1,102 @@
+# Translation of Plugins - Komito Analytics - Development (trunk) in Ukrainian
+# This file is distributed under the same license as the Plugins - Komito Analytics - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-14 17:13:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Komito Analytics - Development (trunk)\n"
+
+#. translators: Variables contain start and end tags for the relevant link.
+#: komito-analytics.php:158
+msgid "For further information and instructions please see the <a href=\"%s\" target=\"_blank\">Komito Analytics integration page</a>."
+msgstr "Для отримання додаткової інформації та інструкцій див. <a href=\"%s\" target=\"_blank\">сторінку інтеграції Komito Analytics</a>."
+
+#: komito-analytics.php:91
+msgid "Track pageviews with blocked ads. (e.g. AdBlock tracker)"
+msgstr "Відстежувати перегляди сторінок із заблокованими оголошеннями. (Наприклад, трекер AdBlock)"
+
+#: komito-analytics.php:55
+msgid "Track files download links."
+msgstr "Стежити за посиланнями на завантаження файлів."
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/datamart"
+msgstr "https://profiles.wordpress.org/datamart"
+
+#. Author of the plugin
+msgid "Datamart"
+msgstr "Datamart"
+
+#. Description of the plugin
+msgid "Komito Analytics is an enhancement for the most popular web analytics software."
+msgstr "Komito Analytics - це удосконалення для популярних сервісів для веб-аналітики."
+
+#. Plugin URI of the plugin
+msgid "https://komito.net"
+msgstr "https://komito.net"
+
+#: komito-analytics.php:154
+msgid "Use default Komito Analytics configuration settings."
+msgstr "Використовувати налаштування конфігурації за замовчуванням."
+
+#. Plugin Name of the plugin
+#: komito-analytics.php:128
+msgid "Komito Analytics"
+msgstr "Komito Analytics"
+
+#: komito-analytics.php:127 komito-analytics.php:146
+msgid "Komito Analytics Settings"
+msgstr "Налаштування Komito Analytics"
+
+#: komito-analytics.php:95
+msgid "Print all requests to console."
+msgstr "Друкувати всі запити в консоль."
+
+#: komito-analytics.php:87
+msgid "Track orientation change on mobile devices."
+msgstr "Стежити за зміною орієнтації екрану на мобільних пристроях."
+
+#: komito-analytics.php:83
+msgid "Track scroll depth."
+msgstr "Стежити за глибиною прокрутки."
+
+#: komito-analytics.php:79
+msgid "Track HTML5 video, audio, Vimeo and YouTube players events."
+msgstr "Стежити за відео й аудіо подіями HTML5, Vimeo та YouTube плеєрів."
+
+#: komito-analytics.php:75
+msgid "Track page print actions."
+msgstr "Стежити за друком сторінки."
+
+#: komito-analytics.php:71
+msgid "Track \"mailto\", \"tel\", \"sms\" and \"skype\" actions."
+msgstr "Стежити за посиланнями “mailto”, “tel”, “sms” і “skype”."
+
+#: komito-analytics.php:67
+msgid "Track pageviews by users logged in to social networks."
+msgstr "Стежити за переглядами користувачів, які увійшли в соціальні мережі."
+
+#: komito-analytics.php:63
+msgid "Track forms submissions."
+msgstr "Стежити за відсиланням форм."
+
+#: komito-analytics.php:59
+msgid "Track outbound links."
+msgstr "Стежити за вихідними посиланнями."
+
+#: komito-analytics.php:51
+msgid "Track LinkedIn events if plugin is presented on page."
+msgstr "Стежити за подіями плагіна LinkedIn, якщо він встановлений на сторінці."
+
+#: komito-analytics.php:47
+msgid "Track Facebook events if widget is presented on page."
+msgstr "Стежити за подіями віджета Facebook, якщо він встановлений на сторінці."
+
+#: komito-analytics.php:43
+msgid "Track Twitter events if widget is presented on page."
+msgstr "Стежити за подіями віджета Twitter, якщо він встановлений на сторінці."
